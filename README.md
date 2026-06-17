@@ -102,7 +102,7 @@ The interface is structured into an active threat tracking grid:
 2. **Active Endpoint Threat Ledger:** A live, tabular forensic view surfacing the executing identity, machine asset, dynamic threat category classification, and exact command string payload.
 3. **Persistence Mechanism Detections:** Dedicated graph isolating execution anomalies seeking environmental longevity.
 
-![SOC Dashboard Mockup]([Insert Your Final Saved Dashboard Image Link Here])
+![SOC Dashboard Mockup]([<img width="1440" height="903" alt="Image" src="https://github.com/user-attachments/assets/77439f43-fc22-4390-ba1a-3c7bccf27a81" />])
 
 ---
 
